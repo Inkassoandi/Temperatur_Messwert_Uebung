@@ -1,0 +1,100 @@
+Tirol; Kufstein; 23.2°C; 9.8°C; 2025-10-13
+Wien; Wien; 11.0°C; 2.9°C; 2025-10-30
+Tirol; Innsbruck; 25.1°C; 20.0°C; 2025-10-13
+Salzburg; Hallein; 11.2°C; -0.2°C; 2025-10-20
+Salzburg; Saalfelden; 27.9°C; 19.3°C; 2025-10-30
+Wien; Wien; 28.3°C; 23.2°C; 2025-10-22
+Tirol; Lienz; 12.4°C; 4.7°C; 2025-10-26
+Tirol; Lienz; 6.6°C; -2.5°C; 2025-10-27
+Oberösterreich; Linz; 23.8°C; 17.8°C; 2025-10-05
+Steiermark; Graz; 0.9°C; -8.0°C; 2025-10-29
+Tirol; Reutte; 4.1°C; -3.7°C; 2025-10-07
+Oberösterreich; Linz; 10.8°C; -3.8°C; 2025-10-24
+Burgenland; Mattersburg; 27.0°C; 13.3°C; 2025-10-17
+Salzburg; Zell am See; 12.0°C; 5.5°C; 2025-11-03
+Tirol; Reutte; 3.0°C; -7.0°C; 2025-10-15
+Burgenland; Oberwart; 7.3°C; 2.3°C; 2025-11-04
+Vorarlberg; Bludenz; 14.5°C; 9.3°C; 2025-10-07
+Kärnten; Hermagor; 34.6°C; 21.8°C; 2025-10-24
+Steiermark; Kapfenberg; 23.7°C; 13.2°C; 2025-10-18
+Oberösterreich; Linz; 12.6°C; 3.9°C; 2025-10-17
+Steiermark; Kapfenberg; 8.7°C; 2.5°C; 2025-10-05
+Oberösterreich; Steyr; 24.6°C; 10.8°C; 2025-10-31
+Wien; Wien; 7.0°C; 3.2°C; 2025-10-07
+Steiermark; Leoben; 3.2°C; -8.5°C; 2025-10-14
+Niederösterreich; Wr. Neustadt; 5.9°C; -2.6°C; 2025-10-22
+Tirol; Kufstein; 9.7°C; 4.7°C; 2025-10-30
+Burgenland; Neusiedl am See; 3.3°C; -5.3°C; 2025-10-28
+Vorarlberg; Feldkirch; 18.1°C; 13.3°C; 2025-10-31
+Steiermark; Graz; 32.9°C; 20.2°C; 2025-10-13
+Wien; Wien; 8.1°C; -4.4°C; 2025-10-28
+Salzburg; Zell am See; 31.1°C; 18.5°C; 2025-10-29
+Tirol; Imst; 23.3°C; 15.8°C; 2025-10-19
+Steiermark; Leoben; 5.8°C; 2.5°C; 2025-10-09
+Wien; Wien; 12.3°C; 6.7°C; 2025-10-25
+Burgenland; Mattersburg; 33.7°C; 20.5°C; 2025-10-28
+Vorarlberg; Hohenems; 8.9°C; -0.8°C; 2025-10-29
+Wien; Wien; 6.1°C; -5.3°C; 2025-10-26
+Tirol; Innsbruck; 27.4°C; 16.7°C; 2025-11-01
+Wien; Wien; 22.5°C; 7.8°C; 2025-10-12
+Tirol; Reutte; 15.6°C; 3.0°C; 2025-10-24
+Salzburg; Zell am See; 2.0°C; -1.6°C; 2025-10-10
+Salzburg; Zell am See; 5.7°C; 1.5°C; 2025-10-13
+Kärnten; Wolfsberg; 5.5°C; -5.4°C; 2025-10-27
+Steiermark; Kapfenberg; 20.6°C; 9.0°C; 2025-10-17
+Burgenland; Jennersdorf; 14.6°C; 2.2°C; 2025-10-23
+Vorarlberg; Dornbirn; 32.0°C; 27.6°C; 2025-10-07
+Steiermark; Kapfenberg; 24.5°C; 9.6°C; 2025-10-15
+Niederösterreich; Krems; 6.6°C; 2.7°C; 2025-10-27
+Wien; Wien; 31.4°C; 20.8°C; 2025-10-27
+Oberösterreich; Steyr; 23.3°C; 19.3°C; 2025-10-30
+Steiermark; Graz; 25.7°C; 20.6°C; 2025-10-06
+Niederösterreich; Amstetten; 30.3°C; 22.4°C; 2025-11-02
+Oberösterreich; Gmunden; 7.2°C; 3.7°C; 2025-10-23
+Wien; Wien; 5.0°C; -1.5°C; 2025-10-24
+Kärnten; Spittal an der Drau; 7.3°C; -3.4°C; 2025-10-31
+Wien; Wien; 29.4°C; 16.0°C; 2025-10-11
+Oberösterreich; Steyr; 5.0°C; -5.3°C; 2025-10-27
+Wien; Wien; 6.7°C; -7.1°C; 2025-10-26
+Vorarlberg; Feldkirch; 23.1°C; 13.0°C; 2025-10-24
+Vorarlberg; Hohenems; 30.8°C; 21.6°C; 2025-11-03
+Niederösterreich; Krems; 21.6°C; 16.0°C; 2025-10-26
+Oberösterreich; Gmunden; 5.0°C; -0.9°C; 2025-11-01
+Burgenland; Mattersburg; 23.6°C; 15.5°C; 2025-10-29
+Tirol; Imst; 10.8°C; 6.3°C; 2025-10-21
+Niederösterreich; Krems; 24.4°C; 20.6°C; 2025-10-31
+Kärnten; Villach; 13.2°C; 2.9°C; 2025-10-27
+Tirol; Imst; 9.7°C; -0.3°C; 2025-10-26
+Salzburg; Hallein; 0.6°C; -12.2°C; 2025-10-14
+Kärnten; Klagenfurt; 32.7°C; 22.7°C; 2025-10-11
+Wien; Wien; 19.0°C; 10.9°C; 2025-10-13
+Niederösterreich; Melk; 8.9°C; -2.8°C; 2025-11-04
+Kärnten; Hermagor; 13.9°C; 5.8°C; 2025-10-16
+Kärnten; Villach; 1.9°C; -2.5°C; 2025-10-19
+Oberösterreich; Steyr; 3.0°C; -5.0°C; 2025-10-21
+Niederösterreich; Krems; 24.3°C; 15.2°C; 2025-10-12
+Oberösterreich; Steyr; 12.1°C; 8.7°C; 2025-10-10
+Salzburg; St. Johann im Pongau; 9.3°C; 5.8°C; 2025-10-30
+Salzburg; Zell am See; 15.0°C; 6.4°C; 2025-10-25
+Niederösterreich; Melk; 7.7°C; -4.2°C; 2025-10-13
+Kärnten; Wolfsberg; 5.0°C; -5.7°C; 2025-10-16
+Steiermark; Feldbach; 24.9°C; 19.3°C; 2025-10-27
+Kärnten; Wolfsberg; 31.4°C; 17.4°C; 2025-10-06
+Wien; Wien; 8.6°C; 1.4°C; 2025-10-21
+Niederösterreich; Wr. Neustadt; 14.1°C; 3.9°C; 2025-11-04
+Burgenland; Mattersburg; 32.8°C; 27.6°C; 2025-10-07
+Tirol; Kufstein; 5.9°C; -6.0°C; 2025-10-18
+Kärnten; Villach; 20.4°C; 8.4°C; 2025-10-10
+Wien; Wien; 26.4°C; 15.5°C; 2025-10-10
+Wien; Wien; 11.2°C; 4.7°C; 2025-10-20
+Steiermark; Graz; 23.5°C; 16.8°C; 2025-10-12
+Tirol; Imst; 2.3°C; -4.9°C; 2025-10-07
+Burgenland; Mattersburg; 27.3°C; 14.0°C; 2025-10-08
+Niederösterreich; St. Pölten; 21.4°C; 10.2°C; 2025-11-04
+Steiermark; Feldbach; 10.0°C; 5.5°C; 2025-10-12
+Kärnten; Hermagor; 28.3°C; 21.8°C; 2025-10-19
+Kärnten; Spittal an der Drau; 10.9°C; 1.2°C; 2025-10-22
+Steiermark; Leoben; 2.1°C; -9.0°C; 2025-10-06
+Wien; Wien; 4.1°C; -1.1°C; 2025-10-15
+Oberösterreich; Linz; 33.5°C; 23.8°C; 2025-10-10
+Niederösterreich; Melk; 24.1°C; 18.0°C; 2025-10-13
