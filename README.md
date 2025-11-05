@@ -1,6 +1,6 @@
 # Temperatur Messwerte #
 
-Die Aufgaben sind etwas redundant, dazu brauchen wir aber eine Großteil von dem was wir gelernt haben. 
+Die Aufgaben sind etwas redundant, dazu brauchen wir aber einen Großteil von dem bis jetzt Gelernten.
 Vielleicht hat ja wer noch Vorschläge.
 
 ### Aufgabe: ###
