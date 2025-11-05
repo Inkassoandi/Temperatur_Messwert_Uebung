@@ -1,3 +1,10 @@
+### Aufgabe ist noch nicht komplett fertig, es is 01:16 und i bin müde (: ###
+
+
+
+
+
+
 # Temperatur Messwerte #
 
 Die Aufgaben sind etwas redundant, dazu brauchen wir aber einen Großteil von dem bis jetzt Gelernten.
