@@ -38,6 +38,8 @@ public class Main {
         System.out.println(SortBy.getHighestTemp(tempMessungen));
         System.out.println(SortBy.getLowestTemp(tempMessungen));
 
+        // Eine Liste in ein neues File schreiben.
+        FileHandler.writeMeasurements(tempKärnten, "Temperaturen aus Kärnten(geordnet nach Tiefsttempereatur)");
 
     }
 }
