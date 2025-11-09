@@ -22,7 +22,13 @@ public class FileHandler {
     }
 
 
-    // Eine Liste in ein neues File schreiben
+    /*
+    Eine Liste in ein neues File schreiben.
+    Da man ja nicht weiß, welches Objekt(Bundesland) die übergebene Liste enthalten wird,
+    deklaren wir die übergebene Liste als eine, die Objekte enhält, welche unterklassen von Bundesland sind.
+    das mchen wir mit: List<? extends Bundesland>
+     */
+
     public static void writeMeasurements(List<? extends Bundesland> mesasurementsList, String filename) {
         File file = new File(filename);
         try (BufferedWriter bw = new BufferedWriter(new FileWriter(file))){
