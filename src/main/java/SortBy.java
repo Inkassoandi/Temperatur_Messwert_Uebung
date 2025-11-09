@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
 import java.util.Objects;
 
@@ -93,4 +94,16 @@ public class SortBy {
         }
         return outcomeList;
     }
-}
+
+    public static Bundesland getHighestTemp(List<Bundesland> incomeList){
+        incomeList.sort(new HighToLowTempComparator());
+        return incomeList.getFirst();
+        }
+    public static Bundesland getLowestTemp(List<Bundesland> incomeList){
+        incomeList.sort(new LowToHighTempComoarator());
+        return incomeList.getFirst();
+    }
+
+
+
+    }
